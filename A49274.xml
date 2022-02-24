@@ -1,0 +1,502 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Knaves are no honest men, or, More knaves yet, a couple well met being a briefe discourse concerning the (offices and) humours of Quarterman and VVaterton, being both Jacks out of office / composed by I.L., a lover of honest men, and hater of knaves.</title>
+            <author>I. L., Lover of honest men and hater of knaves.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1672</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49274</idno>
+            <idno type="STC">Wing L32</idno>
+            <idno type="STC">ESTC R4720</idno>
+            <idno type="EEBO-CITATION">13081257</idno>
+            <idno type="OCLC">ocm 13081257</idno>
+            <idno type="VID">97244</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A49274)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 97244)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 743:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Knaves are no honest men, or, More knaves yet, a couple well met being a briefe discourse concerning the (offices and) humours of Quarterman and VVaterton, being both Jacks out of office / composed by I.L., a lover of honest men, and hater of knaves.</title>
+                  <author>I. L., Lover of honest men and hater of knaves.</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.] Printed in the yeare of the discoverie of a couple,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>[1672?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:97244:1"/>
+            <pb facs="tcp:97244:1" rendition="simple:additions"/>
+            <p>KNAVES ARE No honeſt Men. <hi>OR,</hi> More Knaves yet, A Couple well met.</p>
+            <p>
+               <hi>Being</hi> A briefe Diſcourſe concerning the (Offices and) Humours of <hi>Quarter<g ref="char:EOLhyphen"/>man</hi> and <hi>VVaterton,</hi> being both Jacks out of Office.</p>
+            <q>
+               <l>VVhich if they were nameleſſe,</l>
+               <l>yet I make no doubt,</l>
+               <l>A man that hath ſenſes,</l>
+               <l>may ſoone ſmell them out.</l>
+            </q>
+            <p>Compoſed by <hi>I. L.</hi> a lover of honeſt Men, and hater of Knaves; and Printed in the yeare of the diſcoverie of a Couple.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:97244:2"/>
+            <pb n="1" facs="tcp:97244:2"/>
+            <head>More Knaves yet: <hi>Or,</hi> A Couple well met.</head>
+            <sp>
+               <speaker>Quarterman.</speaker>
+               <p>
+                  <seg rend="decorInit">W</seg>Hat, Brother <hi>Waterton!</hi> Now as I am a Gentleman, and by this martiall hand of mine, I rejoyce to ſée thée: and though the ſplendant Sunne of our Glory he now Eclip<g ref="char:EOLhyphen"/>ſed for a while, yet let us not quite caſt downe our drouping ſpirits; but let us rather ſtrive to comfort one another, and ſéeke to thaw the Frozen Zoane of our carefull hearts with a Cup of Old <hi>Cana<g ref="char:EOLhyphen"/>rie.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>VVaterton.</speaker>
+               <p>
+                  <hi>Brother <hi>Quarterman,</hi> I moſt humbly thanke you for your kindneſſe; and am moſt willing to attend your portly perſon to the Taverne, but I beſeech ye Sir, nor too much of that <hi>Canarie:</hi> for indeed the truth
+<pb n="2" facs="tcp:97244:3"/>
+is, we are counted <hi>Canarie-Birds</hi> by too many alreadie; and therefore it is ſufficient that we content our ſelves with a Quart (or a Pottle) of burnt <hi>Claret,</hi> and ſo to clarifie our injuried ſoules from the ſcandalous report of our re<g ref="char:EOLhyphen"/>proachfull enemies.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Quart.</speaker>
+               <p>How! Who dare be ſo preſump<g ref="char:EOLhyphen"/>tious, as to take notice of our procéedings? It is not ſo long that we have béene out of our Offices, for all the world to take no<g ref="char:EOLhyphen"/>tice; Let us make our ſelves buſie ſtill: Haſt thou never an old Staffe of Office to take in thy hand; were it but the thick end of a Broome-ſtick ſhould appeare in mine, in the likeneſſe of a Truncheon, it were enough to ſtrike terror into the hearts of a hundred people: But what Newes doeſt thou heare abroad, I prethée, concerning the Times?</p>
+            </sp>
+            <sp>
+               <speaker>Wat.</speaker>
+               <p>
+                  <hi>Verily, brother <hi>Quarterman,</hi> it is ſuſpected amongſt our Brethren, that the King will come to the Citie, which cannot be with<g ref="char:EOLhyphen"/>out great prejudice to all our Societie, and to us two eſpecially: for as I hope to live, or to be honoured with the Name of High-Conſtable of <hi>Wapping</hi> againe, I had rather ſee <hi>Pauls</hi> Steeple fall to the very ground, then the King ſhould come with honour to <hi>London</hi> againe.</hi>
+               </p>
+            </sp>
+            <sp>
+               <pb n="3" facs="tcp:97244:3"/>
+               <speaker>Quart.</speaker>
+               <p>Ile fell thée, Brother <hi>Waterton,</hi> if ſo be that I had perſevered ſtill in the ſeveare Office of my mercileſſe Marſhallzie, I would have had <hi>Paues</hi> by this time bin ready to run into little St. <hi>Gregories,</hi> for her ſan<g ref="char:EOLhyphen"/>ctuary, which now by reaſon I am jack out of office, (and the Kings coming to towne,) may be prevented, other wayes it could not have ſtood: for when I was firſt made Mar<g ref="char:EOLhyphen"/>ſhall, I had no ſooner entred into my Office but <hi>Cheape-ſide-Croſſe</hi> fell preſently into an Agonie, and I had no ſooner ſaid, downe w<hi rend="sup">t</hi> it, but downe it went: Heavens grant that I never may ſee the reſurrection of the body thereof, leſt I ſhould be called into queſtion for my preſumption at the pulling of it downe.</p>
+            </sp>
+            <sp>
+               <speaker>Wat.</speaker>
+               <p>
+                  <hi>Indeed Brother <hi>Quarterman,</hi> it was an admirable piece of ſervice for the pulling down of that ſuperſtition and idolatry, and therefore there is none but ſuch as are inclin'd to Popery that can accuſe you for doing of that great work of piety.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Quart.</speaker>
+               <p>Verily Brother <hi>VVaterton,</hi> a man would have thought ſo, and yet for all that I was never the better beloved in the City, for my great care and paines-taking in thoſe py<g ref="char:EOLhyphen"/>ous workes of Reformation.</p>
+            </sp>
+            <sp>
+               <speaker>Wat.</speaker>
+               <p>
+                  <hi>Hang love, (Brother <hi>Quarterman,</hi>)
+<pb n="4" facs="tcp:97244:4"/>
+ſince we can not have it, for indeed it belongs not to men of our qualitie to be beloved, but rather to be feared, yet the truth, is both you and I have been too favourable in our Offices, and as the old ſaying is, <hi>too much pitty ſpoyles a Citie.</hi>
+                  </hi>
+               </p>
+               <q>
+                  <l>For this ſhould be our common uſe,</l>
+                  <l>Never to take, but give abuſe:</l>
+                  <l>To hang upon the rich mens purſes,</l>
+                  <l>And gaine a thouſand beggers curſes.</l>
+               </q>
+            </sp>
+            <sp>
+               <speaker>Quart.</speaker>
+               <p>Nay, by the maſſe Brother <hi>Water<g ref="char:EOLhyphen"/>ton,</hi> I never wanted for beggers curſes, and the rich ſometimes to boot, I would they had cauſe to curſe me ſtill, for I was like to the Kite, <hi>the more they curſt me the better I thrive,</hi> and they ſhall have good cauſe for't as long as I live.</p>
+            </sp>
+            <sp>
+               <speaker>Wat.</speaker>
+               <p>
+                  <hi>I, but a laſſe Sir the ſtaves are now de<g ref="char:EOLhyphen"/>livered out of our own hands, and we both be<g ref="char:EOLhyphen"/>ing both diſarmed of our Authority, are ſubject unto injury as well as other men, (and by pye and pudding,) now that I am turn'd out of my Office I am afraid that I ſhall be called to give an accoumpt, for ſome things that have beene done in the time of my Conſtableſhip brother <hi>(Quarterman)</hi> this was a very ſtrange and un<g ref="char:EOLhyphen"/>expected alteration; that I who lately durſt puniſh or impriſon right or wrong, am now of
+<pb n="5" facs="tcp:97244:4"/>
+a ſudden come to that paſſe that I can ſecure my perſon no more then he that never bore Office before in all his life time.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Quart.</speaker>
+               <p>Truly Brother <hi>VVaterton,</hi> the caſe is not onely yours, but alſo mine, for I do verily believe that we are both ſick of one diſeaſe, and the one as uncureable as the o<g ref="char:EOLhyphen"/>ther, for which the only Phyſick is as follow<g ref="char:EOLhyphen"/>eth, an ounce of honour, mixt with a pottle of preferment, put into a gallon Boule of ſecuritie, and made into a poſſet, under the great miltch Cow of the Common-wealth.</p>
+            </sp>
+            <sp>
+               <speaker>Wat.</speaker>
+               <p>
+                  <hi>And is that good for an Ague I pray you brother <hi>Quarterman,</hi> for I feele a kind of ſhak<g ref="char:EOLhyphen"/>ing and ſhivering in my bones, that I am afraid things are not as they ſhould be with me.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Quart.</speaker>
+               <p>Well, truly and I do believe that the moſt of our Blood is troubled with the ſame diſeaſe, are they not thinke you <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> pray ye tell me how all does about you in <hi>Wap<g ref="char:EOLhyphen"/>ping,</hi> and <hi>Stepney</hi> Pariſh, how fares it with my two Brothers <hi>Andrew</hi> and <hi>Benjamin,</hi> my Siſter <hi>Prudence</hi> and <hi>Priſcilla.</hi> with the reſt of our dearely beloved Friends and Tub-Preachers, are not they troubled with a ſhaking too? if they be not already, I am a<g ref="char:EOLhyphen"/>fraid it will come upon them very ſhortly, if they uſe not ſome ſpéedy meanes to pre<g ref="char:EOLhyphen"/>vent it.</p>
+            </sp>
+            <sp>
+               <pb n="6" facs="tcp:97244:5"/>
+               <speaker>Wat.</speaker>
+               <p>
+                  <hi>I but do you thinke there is no other cure for us, but that onely which you told me of before.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Quart.</speaker>
+               <p>Yes, the beſt way elſe is to take a wooden Horſe, and ſo h<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>yſt away for <hi>New-England,</hi> for the change of the Country may be the meanes to alter the conſtitution of the body.</p>
+            </sp>
+            <sp>
+               <speaker>VVat.</speaker>
+               <p>
+                  <hi>But ſtay, Ile ſee a little further firſt, a man had almoſt as good venture a hanging here, as to leave his friends and meanes be<g ref="char:EOLhyphen"/>hind him, to hazard a drowning, to go to <hi>New-England</hi> or <hi>Virginia.</hi>
+                  </hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Quart.</speaker>
+               <p>O Sir, but you looke very ill on't already, and your diſeaſe begins to appeare very deſperate, and deſperate diſeaſes re<g ref="char:EOLhyphen"/>quires deſperat cures, as the Proverb ſaith;
+<q>
+                     <l>And therefore Brother as you will,</l>
+                     <l>Either goe, or tarry still.</l>
+                  </q>
+               </p>
+            </sp>
+            <sp>
+               <speaker>VVat.</speaker>
+               <p>
+                  <hi>In truth Brother <hi>Quarterman,</hi> you and the Doctor are both in one opinion of me, and moſt men tells me that I droope mightily of a ſudden and indeed I find a great alterati<g ref="char:EOLhyphen"/>on in my ſelfe, not to be the like man I have beene formerly, neither at home nor abroad: but if it be ſo that rich men are mortall and muſt dye, Ile now take my chance in <hi>Old-England,</hi>
+                     <pb n="7" facs="tcp:97244:5"/>
+and if I dye well, ſo; if ill, then let all (High-Conſtables) learne to be good in their Offices, and take heed how they leane too much upon a Rotten-Staffe, though nere ſo rich<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y painted.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Quart.</speaker>
+               <p>Well, would I had conſidered as much before as I do now, for I perceive that he who meddles the leaſt, is counted for the honeſteſt man, and if you and I had taken that courſe, I thinke it had beene the wiſeſt way for us both.</p>
+            </sp>
+            <sp>
+               <speaker>VVat.</speaker>
+               <p>
+                  <hi>Why, if I had knowne of it. I would have ſent you word by one of my ſervants, to have given you noitce of ſome of your Adver<g ref="char:EOLhyphen"/>ſaries, by a truſty friend, one <hi>Munck</hi> a Cobiet, and one of the braveſt fellows to carry a meſ<g ref="char:EOLhyphen"/>ſage in the world; were it betwixt the <hi>Turke</hi> and the <hi>Devill,</hi> he would have let no flies ſtick upon his heeles I warrant you, but would have helpt you to have ſcowr'd your enemie, from the very noſe to the touch-hole behind.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Quart.</speaker>
+               <p>But now Brother <hi>Waterton,</hi> I thinke it would be a wiſe courſe both for you and me, as the times goe, to ſéeke our peace, and be in charity with all men.</p>
+            </sp>
+            <sp>
+               <speaker>VVat.</speaker>
+               <p>
+                  <hi>O Sir, but it is a queſtion whether they will be in Charity with us or no, for in<g ref="char:EOLhyphen"/>deed the time hath beene that they would, when we would not, ye know that we have
+<pb n="8" facs="tcp:97244:6"/>
+had good dayes<g ref="char:punc">▪</g> when they have felt ſorrow, for before that I was thrown out of my Office then who but M. <hi>Waterton</hi> High Conſtable of <hi>Wapping,</hi> how then but good your worſhip ſtanding with their hats in their hands, with bending knees, &amp; now alaſſe there is a qualme come over my ſtomack, good Brother <hi>Quar<g ref="char:EOLhyphen"/>terman</hi> fill me the tother cup of Claret quick<g ref="char:EOLhyphen"/>ly.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Quart.</speaker>
+               <p>What, ill againe man? your fits comes very thick upon y<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>u.</p>
+            </sp>
+            <sp>
+               <speaker>Wat.</speaker>
+               <p>
+                  <hi>Yes Brother <hi>Quarterman,</hi> but I won<g ref="char:EOLhyphen"/>der they come no faſter upon thee, you told me that to take a wooden Horſe and ſo for new <hi>England</hi> was the ſecond beſt medicine, but what doe you thinke by the wooden Horſe, the Gallows I pray ye, they ſay that that's good for an Ague too, and you being ſo well ac<g ref="char:EOLhyphen"/>quainted with the Hangman, I make no doubt but he will give you leave to chuſe your cor<g ref="char:EOLhyphen"/>ner.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Quart.</speaker>
+               <p>I but Brother <hi>Waterton,</hi> I hope you are not come to jeare me for my good counſell?</p>
+            </sp>
+            <sp>
+               <speaker>Water.</speaker>
+               <p>
+                  <hi>No Brother <hi>Quarterman,</hi> and yet I have heard that as honeſt a man as either you or I has dyed in the winter.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Qua.</speaker>
+               <p>Brother <hi>Waterton,</hi> to tell you the very truth, I thought y<hi rend="sup">t</hi> I had an Ague upon me,
+<pb n="9" facs="tcp:97244:6"/>
+which now I find other wayes, and rather that it is a ſtrong ſurfit which I tooke above a dozen yeares agoe.</p>
+            </sp>
+            <sp>
+               <speaker>Water.</speaker>
+               <p>
+                  <hi>Why, was it with eating hot graines with a Sow for a wager, at that time you plaid the Brewers ſervant.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Quart.</speaker>
+               <p>Well Brother <hi>VVaterton,</hi> but I am ſure that you tooke not a ſurfit when you ſtrove with the woman at <hi>Wapping</hi> for your Chriſtmas Dayes Dinner, as they call it, when you tooke the péece of leane béefe from her, and ſhe ſaved you a labour in fetching your Pye, and Pudding, from the Bake-Houſe.</p>
+            </sp>
+            <sp>
+               <speaker>VVat</speaker>
+               <p>
+                  <hi>Well, but for all that I verily believe mine is a ſurfit too, and as I imagin a cold ſur<g ref="char:EOLhyphen"/>fit, which as neere as I can, Ile tell you how I came by it, upon a cold winters night a Sea<g ref="char:EOLhyphen"/>man and his wife came at an unſeaſonable houre from drinking which I perceiving, and being loath to diſturbe the Neighbours, or trouble the Watch, went in curteſie to helpe them to a lodging my ſelfe, which indeed was the Cage, and comming to the doore when I opened the Lock, the knaviſh Seaman being too ſtrong for me, thruſt me in, and withall lo<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>kt the doore againe, and then threw away the Key into a Ditch, and when he had done, he went away laughing at the knaviſh trick which he hah ſerved me.</hi>
+               </p>
+            </sp>
+            <sp>
+               <pb n="10" facs="tcp:97244:7"/>
+               <speaker>Quarter.</speaker>
+               <p>Oh what an impudent Raſca<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> was that, to offer to be ſo preſumptious, a<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to put you into the Cage, knowing you to b<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the High-Conſtable of <hi>VVapping,</hi> and on<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> that had borne Office ſo long in the Pariſh as you have done: but was none of you<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Nei<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hbours neare at that time, to ſtop th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Knave before he were gone too farre?</p>
+            </sp>
+            <sp>
+               <speaker>Wat.</speaker>
+               <p>
+                  <hi>No indeed, and they were, it ſeeme<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> they bare me not ſo much good-will as to doe it, for as I beard ſince, they rejoyced at it, and laugh at the buſines as much as the knave tha<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> did it.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Quart.</speaker>
+               <p>It ſéemes by the Story there wa<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> good neighbour-hood among them, and yet m<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> thinks that if they would not do it for love<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> feare ſhould have compel'd them to have d<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> it, but how long did you ſtay there?</p>
+            </sp>
+            <sp>
+               <speaker>Water.</speaker>
+               <p>
+                  <hi>Marry till ſuch time as the Roun<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> came by to releaſe me, and then I had like to have had my b<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>a<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nes knockt out.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>Qu<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rt.</hi>
+               </speaker>
+               <p>Your braines knockt out man, (marry Heavens forbid,) by what meanes I pray you Sir?</p>
+            </sp>
+            <sp>
+               <speaker>Wat.</speaker>
+               <p>
+                  <hi>By one of the watch-men, who had got a cup in his head more then the reſt of his fellowes, coming to the Cage and asking what I was, to whom I anſwered, ſaying, M. <hi>Water<g ref="char:EOLhyphen"/>ton,</hi> High-Conſtable of <hi>VVapping<g ref="char:punc">▪</g>
+                     </hi>
+                  </hi>
+               </p>
+            </sp>
+            <sp>
+               <pb n="11" facs="tcp:97244:7"/>
+               <speaker>Quart.</speaker>
+               <p>Well, but I hope he did not offer to ſtrike or abuſe you for telling him the truth?</p>
+            </sp>
+            <sp>
+               <speaker>Wat.</speaker>
+               <p>
+                  <hi>No, but he put me into a damnable feare that he would have done it, being miſtaken in the darke he told me I lyed, and ſaid if I would not hold my prating, but abuſe the High-Conſtable of <hi>VVapp<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ng's</hi> name in that manner, he would knock my Cocks-combe for me, as it was never knockt ſince the firſt time that my Dam bound my head.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Quart.</speaker>
+               <p>Alas good honeſt Gentleman, then it ſéemes that you were almoſt in as bad a caſe as poore transformed <hi>Acteon</hi> was, who appearing in a ſtrange ſhape, was torne to death by his owne Doggs: and you being heard to ſpeake ſo in an unexpected place, peradventure might have had your braines beat out: by your owne Friend the Watch<g ref="char:EOLhyphen"/>man, and ſo here's to you the other cup of Claret.</p>
+            </sp>
+            <sp>
+               <speaker>Wat.</speaker>
+               <p>
+                  <hi>Verily Brother <hi>Quarterman;</hi> I muſt unbutten a button or two before, for my Dublet growes too ſtraight in the waſte already, and yet for all that my Sure is made ſo little, I am afraid that the Taylors Bill will be made as much too large, when he and I ſhall come to a reckoning toge<g ref="char:EOLhyphen"/>ther.</hi>
+               </p>
+            </sp>
+            <sp>
+               <pb n="12" facs="tcp:97244:8"/>
+               <speaker>Quarter.</speaker>
+               <p>Well, but I would wiſh the knave to take them againe, were it my <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aſe although I were at ſome loſſe, to be rid o<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the troubleſome Scab, for the law is charg<g ref="char:EOLhyphen"/>able you know.</p>
+            </sp>
+            <sp>
+               <speaker>Wat.</speaker>
+               <p>
+                  <hi>Yes Sir, but who would have thought that the times would have changed ſo ſudden<g ref="char:EOLhyphen"/>ly with me, for at that preſent I had the law in mine owne hands, and the proudeſt Taylor a<g ref="char:EOLhyphen"/>mongſt them all durſt not have reſiſted, not queſtioned the matter in thoſe dayes, but now I could wiſh with all my heart, that two or three of my loving Neighbours would take up the buſines betwixt us, and it ſhould be a war<g ref="char:EOLhyphen"/>ning to me how I meddle with ſtrange Tay<g ref="char:EOLhyphen"/>lors any more, but I'me afraid very few will take my part, but rather rejoyce to ſee the Tay<g ref="char:EOLhyphen"/>lor take vengeance on my purſe, becauſe for<g ref="char:EOLhyphen"/>merly I tooke ſo little pitty on theirs.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Quart.</speaker>
+               <p>I Sir, but not of all your Neigh<g ref="char:EOLhyphen"/>bours, I hope you put a difference betwixt the good and the bad? and though forty or fifty far'd the worſe, I make no doubt but others came off the better?</p>
+            </sp>
+            <sp>
+               <speaker>Wat.</speaker>
+               <p>
+                  <hi>No indeed Brother <hi>Quarterman,</hi> it was not only forty nor fifty, but hundreds, nay even the whole pariſh, and ſome as far as <hi>Bow,</hi> and <hi>Brumley,</hi> which I could wiſh they were all as farre as <hi>Rome.</hi>
+                  </hi>
+               </p>
+            </sp>
+            <sp>
+               <pb n="13" facs="tcp:97244:8"/>
+               <speaker>Quarter.</speaker>
+               <p>I, but Brother <hi>VVaterton,</hi> I heare there's a worſe thing then all this, which is like to come upon us verry ſhort<g ref="char:EOLhyphen"/>ly.</p>
+            </sp>
+            <sp>
+               <speaker>Wat.</speaker>
+               <p>
+                  <hi>VVhy, what is that I pray you?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Quart.</speaker>
+               <p>Marry they ſay that the running Stationers of <hi>London,</hi> I meane ſuch as uſe to ſing Ballads, and thoſe that cryes Malignant Pamphlets in the Stréets, have all laid their heads together, and are fram<g ref="char:EOLhyphen"/>ing a bill of indytement againſt us, becauſe divers times to ſhow the power of our Au<g ref="char:EOLhyphen"/>thority, we have taken perforce or torne their rediculous Papers.</p>
+            </sp>
+            <sp>
+               <speaker>VVat.</speaker>
+               <p>
+                  <hi>By the maſſe I thought that ſome thing was the matter that made the knave ſo ſcawcie on <hi>Tower-Hill</hi> the other day, for I did but bid him to be gone, and not to ſtand baw<g ref="char:EOLhyphen"/>ling of his Ballads in that manner, and he told me that he would ſing there when I was hang'd, nay, perhaps (quoth he,) one that ſhall be of thy owne Execution.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Quarter.</speaker>
+               <p>But what was the ſubject of the matter that he ſung at that time I pray you?</p>
+            </sp>
+            <sp>
+               <speaker>VVat.</speaker>
+               <p>
+                  <hi>For that I do not well know, becauſe he had almoſt done before I came to him, but I'me ſure the knave pray'd both for the King, and the Queene too, in the concluſion.</hi>
+               </p>
+            </sp>
+            <sp>
+               <pb n="14" facs="tcp:97244:9" rendition="simple:additions"/>
+               <speaker>Quart.</speaker>
+               <p>And would not the people check him for his impudencie, and take your part?</p>
+            </sp>
+            <sp>
+               <speaker>VVat.</speaker>
+               <p>
+                  <hi>Marry they were more readier to up<g ref="char:EOLhyphen"/>hold him in his knaverie, and breake my pate.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Quart.</speaker>
+               <p>Well, then it ſeemes that you are in a manner as well belov'd in the Suburbs as I was in the Citie formerly; which in<g ref="char:EOLhyphen"/>deed is, as the Devill loves holy-water, if their hearts were according to their hands, in a late Petition of theirs, againſt me.</p>
+            </sp>
+            <sp>
+               <speaker>VVat.</speaker>
+               <p>
+                  <hi>I, brother <hi>Quarterman,</hi> and if they knew but as much knaverie by you, as I doe by my ſelfe, I would be hang'd if they would not, have had a Booke, or a Ballad, out of us both by this time: I thanke them heartily, they've remembred me alreadie in their laſt <hi>Chriſtmas</hi> Caroll, becauſe that Maſt. <hi>Diu</hi> with his Dagger, and my ſelfe, ſuffered no Plums to come to <hi>Ratcliffe-Croſſe,</hi> to make their prophane Pot<g ref="char:EOLhyphen"/>tage on that morning.</hi>
+               </p>
+               <q>
+                  <l>Thus got I hate of many, love of none.</l>
+                  <l>(Boy, take the Reckoning) now I must be gone.</l>
+               </q>
+            </sp>
+            <sp>
+               <speaker>Qu.</speaker>
+               <p>
+                  <hi>Well, brother <hi>Waterton,</hi> with all my heart; I'le take my leave too, friends you know muſt part.</hi>
+               </p>
+               <q>And ſo farewell.</q>
+            </sp>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:97244:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
